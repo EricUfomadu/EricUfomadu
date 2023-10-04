@@ -1,0 +1,18 @@
+currentyear = 2023
+# defining the year with which i will use to calculate the ages of the students
+a = input("Enter student 1 name: ")
+b = input("Enter student 2 name: ")
+c = input("Enter student 3 name: ")
+d = input("Enter student 4 name: ")
+p = "years old"
+# defining the "years old" as "p" which i will later format into the code
+student_names = [a,b,c,d]
+for i in range(1, 5):
+  # to delimit the propmpt display to 4 values and to repeat the prompt for the 4 students
+    age = int(input(f"Enter birthyear of student {i}: "))
+  #to make the code display the birthyear in interger and also repeat the question for the four students
+    student_ages = currentyear - age
+    # to calculate the ages of the students
+    print(f"{student_names[i-1]} is {student_ages} {p}")
+    #to allow the code to assign the names of the students as to scores and their ages
+    # the f allows me to be able to insert the already defined p variable
