@@ -4,7 +4,8 @@
 
 *I'm a passionate explorer of the intersections between technology and security, with a keen focus on applying machine learning to solve complex problems. My journey involves constant learning and the creation of innovative projects that push the boundaries of what technology can achieve.*
 
-🌟 Interests
+🌟 **Interests**
+
 **Machine Learning & AI**: Enthusiastic about developing intelligent systems that learn and adapt.
 
 **Cybersecurity**: Dedicated to enhancing the security and resilience of digital infrastructures.
