@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!Welcome to My GitHub Profile! 👨‍💻
+## Hi there 👋 <!Welcome to My GitHub Profile! 👨‍💻
 
 I'm a passionate explorer of the intersections between technology and security, with a keen focus on applying machine learning to solve complex problems. My journey involves constant learning and the creation of innovative projects that push the boundaries of what technology can achieve.
 
@@ -18,4 +16,6 @@ I'm always open to connect and collaborate on exciting projects. If you share si
 LinkedIn (https://www.linkedIn.com/in/ericufomadu/)
 Email (eufomadu@stetson.edu)
 Looking forward to connecting with like-minded individuals and exploring the vast opportunities in the tech world!
+
+
 
