@@ -69,5 +69,4 @@ applications in law and technology. Occasionally playing chess at a level that
 suggests I should be doing less of it.
 
 [LinkedIn](https://www.linkedin.com/in/ericufomadu) ·
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=12486408) ·
-eufomadu@stetson.edu
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=12486408)
